@@ -1,0 +1,6 @@
+{
+	"RMI port":"9000",
+	"Name":"Registry",
+	"TCP port":"9100"
+	"Max Matches":"10"
+}
